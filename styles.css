@@ -42,7 +42,6 @@ margin-right:20px;
 
 .name{
 float:left;
-margin-left:15%;
 width:650px;
 height:75px;
 }
@@ -52,6 +51,17 @@ margin-top:15px;
 margin-left:20px;
 float:left;
 width:18%;
+height:75px;
+text-align:center;
+line-height:35px;
+}
+
+.smallherf1{
+margin-top:15px;
+margin-left:20px;
+float:left;
+margin-left:14%;
+width:6%;
 height:75px;
 text-align:center;
 line-height:35px;
