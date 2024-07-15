@@ -29,7 +29,7 @@ width:100%;
 
 .photo1{
 float:left;
-width:450px;
+width:23%;
 height:75px;
 }
 
@@ -42,7 +42,7 @@ margin-right:20px;
 
 .name{
 float:left;
-margin-left:300px;
+margin-left:15%;
 width:650px;
 height:75px;
 }
@@ -51,14 +51,14 @@ height:75px;
 margin-top:15px;
 margin-left:20px;
 float:left;
-width:100px;
+width:18%;
 height:75px;
 text-align:center;
 line-height:35px;
 }
 
 .smooth{
-font-size:19px;
+font-size:18px;
 font-weight:bold;
 }
 
@@ -241,10 +241,10 @@ justify-content: space-around;
 
 .zuo{
 margin-bottom:50px;
-margin-left:20px;
-margin-right:20px;
+margin-left:2%;
+margin-right:2%;
 height:350px;
-width:250px;
+width:19%;
 background-color:white;
 }
 
@@ -276,7 +276,7 @@ font-weight:500;
 }
 
 .shangban>.ppp{
-width:250px;
+width:100%;
 height:200px;
 }
 
